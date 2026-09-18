@@ -1,0 +1,11 @@
+2025-11-18 12:32:45,464 - ERROR - Connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (61)
+2025-11-18 12:32:45,466 - ERROR - Connection error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (61)
+2025-11-18 12:32:45,466 - INFO - Login failed (not found): vishnu.anilkumar@sjsu.edu
+2025-11-18 12:59:18,921 - INFO - Login failed (not found): vishnu.anilkumar@sjsu.edu
+2025-11-18 12:59:37,285 - INFO - Login success: john.smith@email.com
+2025-11-18 13:00:01,421 - INFO - Login success: sarah.j@gamingcafe.com
+2025-11-23 16:10:16,814 - INFO - Login success: john.smith@email.com
+2025-11-23 16:30:07,789 - INFO - Login success: john.smith@email.com
+2025-11-24 22:20:57,415 - INFO - Login failed (not found): 
+2025-11-24 22:21:08,116 - INFO - Login success: john.smith@email.com
+2025-11-24 22:26:05,860 - INFO - Login success: john.smith@email.com
